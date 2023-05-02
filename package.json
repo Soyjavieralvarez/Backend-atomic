@@ -1,0 +1,40 @@
+{
+  "name": "backend-atomic",
+  "version": "1.0.0",
+  "description": "Atomic Coffee Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/Soyjavieralvarez.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Socket.IO",
+    "Tailwind",
+    "CSS",
+    "Headless",
+    "UI",
+    "context",
+    "API",
+    "custom",
+    "Hooks."
+  ],
+  "author": "Javier Álvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/Soyjavieralvarez/issues"
+  },
+  "homepage": "https://github.com/github.com/Soyjavieralvarez#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
