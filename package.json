@@ -2,6 +2,7 @@
   "name": "backend-atomic",
   "version": "1.0.0",
   "description": "Atomic Coffee Project",
+  "type":"module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
